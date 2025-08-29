@@ -6,13 +6,44 @@ Notes for the day
 ## Day 2
 Notes for day 2
 # Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
-  - [Practice](#practice)
+- [Flutter Notes](#flutter-notes)
+  - [What is Flutter?](#what-is-flutter)
+  - [Key Terms](#key-terms-and-definitions)
 - [Day 2](#day-2)
 
 -[Notebook Style Guide](#Markdown-Style-Guide-for-Coding-Notebooks)
+## Flutter Notes - [Insert Date]
 
+### 🧱 What is Flutter?
+- Definition: A framework made by Google for building apps that work on web, Andriod, and iOS- with one codebase.
+- Why is it useful?
+  
+
+---
+
+### 🧩 Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           |     basic building block of a flutter app.           text, Image, Container, column  
+| MaterialApp      | the root of the app. Sets up routine and themes         found in main.dart                                        |                                           |
+| Scaffold         |  provides basic visual layout, like a header, body            each screen uses it                                                |                                           |
+| StatelessWidget  |                                                  |                                           |
+| StatefulWidget   |                                                  |                                           |
+| Navigator        |                                                  |                                           |
+| AppBar           |                                                  |                                           |
+| Column                  vertical layout                             |                                           |
+| Row              |      horizontal layout                           |                                           |
+| Container        |      displays text                               |                                           |
+| Text             |                                                  |                                           |
+| Image.network    |                                                  |                                           |
+
+---
+
+### 🎨 Layout and Design Widgets
+- How do you center a widget?
+- How do you align something to the left or right?
+- What widget adds space around content?
 ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
@@ -44,7 +75,7 @@ Use inline code for keywords, functions, or commands.
 ✅ Example:
 
 markdown
-Copy code
+
 **Class** = a blueprint for objects  
 *Remember:* always test your code  
 Use `System.out.println()` to print
@@ -58,7 +89,7 @@ Fenced code blocks with language for full examples.
 ✅ Example:
 
 markdown
-Copy code
+
 ```java
 public class Hello {
     public static void main(String[] args) {
@@ -75,8 +106,8 @@ Bulleted lists for unordered ideas.
 
 ✅ Example:
 
-markdown
-Copy code
+
+
 1. Define the class
 2. Write the main method
 3. Test your program
@@ -90,7 +121,7 @@ When to use: Track progress on assignments or tasks.
 ✅ Example:
 
 markdown
-Copy code
+
 - [x] Complete coding warm-up
 - [ ] Finish project draft
 - [ ] Reflect on learning
@@ -99,8 +130,8 @@ When to use: Call out notes, reminders, or teacher comments.
 
 ✅ Example:
 
-markdown
-Copy code
+
+
 > 💡 Remember: Loops repeat code until a condition is false.
 📊 Tables
 When to use: Compare values, track progress, or organize data neatly.
@@ -108,7 +139,7 @@ When to use: Compare values, track progress, or organize data neatly.
 ✅ Example:
 
 markdown
-Copy code
+
 | Task        | Status   | Notes          |
 |-------------|----------|----------------|
 | Homework 1  | Done ✅  | Submitted      |
@@ -118,32 +149,32 @@ When to use: Add references, resources, or visuals.
 
 ✅ Example:
 
-markdown
-Copy code
+
+
 [Java Docs](https://docs.oracle.com/javase/8/docs/api/)  
-![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/-mark.svg)
 📂 Collapsible Sections
 When to use: Hide solutions, extended notes, or extra details.
 
 ✅ Example:
 
 markdown
-Copy code
+
 <details>
   <summary>Click to reveal solution</summary>
   
 System.out.println("Answer: 42");
 
 bash
-Copy code
+
 </details>
 📝 Footnotes
 When to use: Add references or side notes without cluttering the page.
 
 ✅ Example:
 
-markdown
-Copy code
+
+
 This concept is related to object-oriented programming.[^1]
 
 [^1]: See "Objects and Classes" in your textbook.
