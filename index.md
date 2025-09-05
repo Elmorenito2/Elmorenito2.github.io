@@ -8,4 +8,4 @@ title: Home
 ## About Me
 Click here to learn more → [About Me](about.md)
 
-Click here to learn more → [About the index](Notebook.md)
+Click here to learn more → [About my Notebook](Notebook.md)
