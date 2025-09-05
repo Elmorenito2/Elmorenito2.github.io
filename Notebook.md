@@ -2,9 +2,10 @@
 
 ## Day 1
 Notes for the day
+
 Click here to learn more → [About Me](about.md)
 
-Click here to learn more → [About Me](index.md)
+Click here to learn more → [About the index](index.md)
 
 ## Day 2
 Notes for day 2
