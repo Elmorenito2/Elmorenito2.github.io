@@ -6,3 +6,5 @@ url: "https://Elmorenito2.github.io"
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+Click here to learn more → [About the index](Notebook.md)
