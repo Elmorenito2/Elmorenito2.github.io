@@ -9,4 +9,5 @@ mechanical work and it'll be easy for me when i get the hang of it. it connects 
 
 
 
-https://carwow-uk-wp-3.imgix.net/18015-MC20BluInfinito-scaled-e1707920217641.jpg
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/048e4a61-008c-4b6c-ba27-e9eca7fbebe4" />
+
