@@ -3,6 +3,7 @@
 ## Day 1
 Notes for the day
 Click here to learn more → [About Me](about.md)
+
 Click here to learn more → [About Me](index.md)
 
 ## Day 2
