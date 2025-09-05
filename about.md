@@ -18,9 +18,6 @@ mechanical work and it'll be easy for me when i get the hang of it. it connects 
 
 
 
-Click here to learn more → [About my notebook](Notebook.md)
-
-Click here to learn more → [About the index](index.md)
 
 
 
