@@ -10,6 +10,7 @@ Notes for day 2
   - [What is Flutter?](#what-is-flutter)
   - [Key Terms](#key-terms-and-definitions)
 - [Day 2](#day-2)
+- Click here to learn more → [About Me](about.md)
 
 -[Notebook Style Guide](#Markdown-Style-Guide-for-Coding-Notebooks)
 ## Flutter Notes - [Insert Date]
