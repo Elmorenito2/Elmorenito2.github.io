@@ -2,7 +2,7 @@ title: My WildCat Studios Portfolio
 description: >-
          This is my portfolio showcasing my projects and skills.
 baseurl: ""
-url: "https://.github.io"
+url: "https://Elmorenito2.github.io"
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
