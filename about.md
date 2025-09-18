@@ -9,7 +9,7 @@ mechanical work and it'll be easy for me when i get the hang of it. it connects 
 
 
 
-![alt text]( width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/048e4a61-008c-4b6c-ba27-e9eca7fbebe4")
+![alt text]()<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/048e4a61-008c-4b6c-ba27-e9eca7fbebe4" />
 
 ![alt text]()<img width="2560" height="1969" alt="image" src="https://github.com/user-attachments/assets/eb080135-0b2c-49dd-8eff-c027d334d7e1" />
 
